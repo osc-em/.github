@@ -1,5 +1,5 @@
-# The Open Science Community for Electron Microscopy
+# The Open Standards Community for Electron Microscopy
 
-OSCEM was formed to develop tools and standards for electron microscopy metadata.
+OSC-EM was formed to develop tools and standards for electron microscopy metadata.
 
 More info forthcoming.
