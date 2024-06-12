@@ -2,4 +2,4 @@
 
 OSC-EM was formed to develop tools and standards for electron microscopy metadata.
 
-More info forthcoming.
+View the schemas [here](https://github.com/osc-em/OSCEM_Schemas)
