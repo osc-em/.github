@@ -35,9 +35,11 @@ future.
 OSC-EM is an inclusive community that aims to represent the needs of diverse electron
 microscopy users. We are actively looking for additional contributors to add additional
 experimental methods, instruments, and software.
-If you would like to contribute, please contact
-[Spencer Bliven](mailto:spencer.bliven@psi.ch) (PSI)
-or Carlos Oscar Sanchez Sorzano (CSIC).
+If you would like to contribute, please join the
+[OSC-EM mailing list](https://listas.csic.es/cnb/wws/info/oscem) or start a discussion
+on our [github organization](https://github.com/orgs/osc-em/discussions). You can also
+contact project leaders [Spencer Bliven](mailto:spencer.bliven@psi.ch) (PSI)
+and Carlos Oscar Sanchez Sorzano (CSIC) directly.
 
 The following projects use OSC-EM:
 
@@ -55,5 +57,5 @@ The following projects use OSC-EM:
 
 ## Status
 
-The OSC-EM schema is under active development as of 2024 and may undergo significant
-changes. A stable draft version is anticipated in mid 2025.
+The OSC-EM schema is now considered a draft version. However, additional fields and
+techniques are expected to be added in the future.
